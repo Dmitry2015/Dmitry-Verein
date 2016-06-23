@@ -1,0 +1,111 @@
+
+-----------index.html--------------
+(added/changed)
+
+
+About   Seattle    San Diego    San Francisco    Gallery    Weather
+
+
+CAROUSEL
+
+Panoramic View
+Seattle
+
+Panoramic View
+San Diego
+
+Panoramic View
+San Francisco
+
+
+ARTICLE
+
+St. Augustine:
+"The world is a book and those who do not travel read only one page."
+
+THUMBNAILS
+
+Seattle
+Seattle, on Puget Sound in the Pacific Northwest, is surrounded by water, 
+mountains and evergreen forests, and encompasses thousands of acres of parkland 
+(hence its nickname, "Emerald City"). It's home to a thriving tech industry, with Microsoft 
+and Amazon.com headquartered in its metropolitan area.
+
+San Diego
+San Diego is a city on the Pacific coast of California known for its beaches, 
+parks and warm climate. Immense Balboa Park is the site of the world-famous 
+San Diego Zoo, as well as numerous art galleries, artist studios, museums 
+and gardens. A deep harbor is home to a large active naval fleet, with the 
+USS Midway, an aircraft-carrier-turned-museum, open to the public.
+
+San Francisco
+San Francisco, in northern California, is a city on the tip of a peninsula 
+surrounded by the Pacific Ocean and San Francisco Bay. It's known for its 
+hilly landscape, year-round fog, iconic Golden Gate Bridge, cable cars and 
+colorful Victorian houses. The Financial District's Transamerica Pyramid is 
+its most distinctive skyscraper. In the bay sits Alcatraz Island, site of 
+the notorious former prison.
+
+FOOTER
+
+© copyright 2015 Explore the greatest cities Bellevue, WA info@Explorethegreatestcities.com
+
+
+
+
+-----------gallery.html--------------
+(added)
+
+Main page   Seattle    San Diego    San Francisco    Gallery    Weather
+
+
+ARTICLE
+
+Lao Tzu:
+"A journey of a thousand miles must begin with a single step."
+
+THUMBNAILS
+
+Seattle / Olympic National Park
+With nearly one million acres, Olympic encompasses several distinctly different 
+ecosystems and protects a rich mosaic of natural and cultural history. Untamed rivers 
+flow from glacier-capped peaks through valleys of old-growth forests, waves crash against 
+a shoreline rich with life, and only trails traverse the vast interior of this internationally 
+recognized wilderness. read more>
+
+Seattle / Mount Rainier National Park
+San Diego is a city on the Pacific coast of California known for its beaches, parks and warm 
+climate. Immense Balboa Park is the site of the world-famous San Diego Zoo, as well as 
+numerous art galleries, artist studios, museums and gardens. A deep harbor is home to a 
+large active naval fleet, with the USS Midway, an aircraft-carrier-turned-museum, open to the 
+public. read more>
+
+San Diego / Balboa Park
+This is just northeast of downtown, is one of the country's largest urban cultural parks. It is 
+a great place to spend some free time: Botanic building, huge lily pond, the Old Globe Theater, 
+and museums (including the Timken Museum of Art which is a great way to see masterpieces of art 
+because there is no admission charge!). read more>
+
+San Diego / La Jolla
+This area has the most beautiful coastline in San Diego and is your best bet for an afternoon or 
+day at the beach or exploring the coast. La Jolla Shores beach is all-round the nicest beach in 
+the area with excellent swimming, changing rooms, easy parking, harmless leopard sharks during 
+the summer, kayak and surf/SUP board rental shops one block away, etc. read more>
+
+San Francisco / Half Moon Bay
+Located approximately 35 minutes south of San Francisco in the Bay Area, this stunning slice of 
+the Golden State boasts an unrivaled combination of coastal town friendliness, charm and natural 
+beauty. From romantic inns and luxurious coastal resorts to budget-friendly brand hotels, Half 
+Moon Bay's variety of lodging offers a perfect fit for everyone visiting Northern California & 
+the SF Bay Area. read more>
+
+San Francisco / Yosemite National Park
+Not just a great valley, but a shrine to human foresight, the strength of granite, the power of 
+glaciers, the persistence of life, and the tranquility of the High Sierra. First protected in 1864, 
+Yosemite National Park is best known for its waterfalls, but within its nearly 1,200 square miles, 
+you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much 
+more. read more>
+
+FOOTER
+
+© copyright 2015 Explore the greatest cities Bellevue, WA info@Explorethegreatestcities.com

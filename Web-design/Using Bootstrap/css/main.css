@@ -1,0 +1,503 @@
+@charset "UTF-8";
+/* Simple fluid media
+   Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+   http://www.alistapart.com/articles/fluid-images/ 
+*/
+img, object, embed, video {
+	max-width: 100%;
+}
+
+
+.navbar, .navbar-default {
+	border-width: 0px;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+}
+
+.image-fill {
+	width: 100%;
+}
+
+
+#wrapper {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
+
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {
+	width:100%;
+}
+
+/*
+	Dreamweaver Fluid Grid Properties
+	----------------------------------
+	dw-num-cols-mobile:		6;
+	dw-num-cols-tablet:		9;
+	dw-num-cols-desktop:	12;
+	dw-gutter-percentage:	25;
+	
+	Inspiration from "Responsive Web Design" by Ethan Marcotte 
+	http://www.alistapart.com/articles/responsive-web-design
+	
+	and Golden Grid System by Joni Korpi
+	http://goldengridsystem.com/
+*/
+
+.fluid {
+	clear: both;
+	margin-left: 0;
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+.fluidList {
+    list-style:none;
+    list-style-image:none;
+    margin:0;
+    padding:0;        
+}
+a:link {
+	color: #C6F435;
+	text-decoration: underline; 
+}
+a:visited {
+	color: #C6F435;
+	text-decoration: underline;
+}
+a:active { 
+	color: #C6F435;
+	text-decoration: underline;
+}
+a:hover { 
+	color: #fff;
+	text-decoration: underline;
+}
+
+/* Mobile Layout: 480px and below. 
+------------------------------------Mobile-----*/
+  
+.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 96.6666%;
+	padding-left: 1.6666%;
+	padding-right: 1.6666%;
+	clear: none;
+	float: none;
+}
+
+#header {
+	height: 107px;
+	background-image: url(images/background.jpg);	
+}
+
+#logo {
+
+	height: 97px;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+#banner {
+	display: none;
+}
+
+
+/* ~~ The navigation list styles ~~ */
+#menu {
+	height: 44px;
+	font-size: 14px;
+	font-family: Gotham, Helvetica, Arial, sans-serif;
+	text-align: center;
+	background-color: #DAD2BF;
+	padding-top: 4px;
+}
+#menu ul {
+	height: auto;
+	padding: 0px;
+	margin: 0px;
+}
+#menu li {
+    display: inline;
+    padding: 20px; 
+}
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+#menu a:hover {
+    color: #2D5F72;
+}
+#slideshow {
+  display: none;
+}
+#textarea {
+	width: 85%;
+	margin-left: 35px;
+}
+.textareatext{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #8CAC26;
+	font-size: 16px;
+	font-weight: 300;
+	font-style: normal;
+	line-height: 22px;
+}
+
+#featurebox1 {
+	width: 100%;
+	height: 100%;
+	clear: both;
+	margin-left: 0;
+	display: block;
+	float: left;
+}
+#featurebox2 {
+	width: 100%;
+	height: 100%;
+	clear: both;
+	margin-left: 0;
+	display: block;
+	float: left;
+}
+#featurebox3 {
+	width: 100%;
+	height: 100%;
+	clear: both;
+	margin-left: 0;
+	display: block;
+	float: left;
+}
+#featurebox4 {
+	width: 100%;
+	height: 100%;
+	clear: both;
+	margin-left: 0;
+	display: block;
+	float: left;
+}
+#featurebox5 {
+	width: 100%;
+	height: 100%;
+	clear: both;
+	margin-left: 0;
+	display: block;
+	float: left;
+}
+#featurebox6 {
+	width: 100%;
+	height: 100%;
+	clear: both;
+	margin-left: 0;
+	display: block;
+	float: left;
+}
+.featureboxcontroller {
+	background-color: #B8B8BF;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+.featureboxgraphic {
+	padding-top: 5px;
+	padding-left: 0px; 
+	padding-right: 0px;
+	float: center;
+	width: 98%;
+}
+.featureboxgraphic img{
+	border: 1px solid #FFFFFF;
+}
+.featureboxtextarea {
+	padding-right: 8px;
+	background-color: #B8B8BF;
+	float: right;
+	width: 98%;
+}
+.featureboxtext {
+	font-family: Gotham, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: black;
+	line-height: 16px;
+}
+#footer {
+	height: 45px;
+	padding-top: 10px;
+	background-color: #4D3F59;
+	text-align: center;
+	position: relative;
+	clear: both;
+	margin: 0px;  
+}
+.connect {
+}
+.connect img {
+	padding-right: 13px; 
+	padding-left: 13px;
+	padding-top: 7px; 
+}
+.footerspace{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.footertext{
+	font-family: Gotham, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #fff;
+	line-height: 16px;
+}
+.zeroMargin_mobile {
+margin-left: 0;
+}
+.hide_mobile {
+display: none;
+}
+
+/* Tablet Layout: 481px to 768px. 
+---------------------------------Tablet------*/
+
+@media only screen and (min-width: 481px) {
+
+.gridContainer {
+	width: 97.7777%;
+	padding-left: 1.1111%;
+	padding-right: 1.1111%;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#header {
+	height: 127px;
+	background-image: none;
+}
+
+#logo {
+	width: 20.4545%;
+	height: 127px;
+	margin-top: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+}
+#logo img {
+	width: 100%;
+	margin-top: 12px;
+	margin-left: 15px;	
+}
+#banner {
+	width: 77.2727%;
+	height: 127px;
+	margin-left: 2.2727%;
+	display: block;
+	clear: none;
+	
+}
+#menu {
+	height: 28px;
+	font-size: 18px;
+}
+#slideshow {
+	height: 100%;
+	display: block;
+}
+#main {
+	text-align: center;
+}
+#textarea {
+	width: 90%;
+}
+
+#featurebox1 {
+width: 100%; 
+clear: both;
+margin-left: 0;
+
+}
+#featurebox2 {
+width: 100%; 
+clear: both;
+margin-left: 0;
+
+}
+#featurebox3 {
+width: 100%; 
+clear: both;
+margin-left: 0;
+
+}
+#featurebox4 {
+width: 100%; 
+clear: both;
+margin-left: 0;
+
+}
+#featurebox5 {
+width: 100%; 
+clear: both;
+margin-left: 0;
+
+}
+#featurebox6 {
+width: 100%; 
+clear: both;
+margin-left: 0;
+}
+.featureboxcontroller {
+}
+
+
+.featureboxgraphic {
+	padding-top: 5px;
+	padding-left: 0px; 
+	padding-right: 0px;
+	float: left;
+	width: 98%;
+}
+
+.featureboxtextarea {
+	padding-right: 8px;
+	background-color: #B8B8BF;
+	float: left;
+	width: 98%;
+}
+.featureboxtext {
+	font-family: Gotham, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: black;
+	line-height: 16px;
+}
+
+#footer {
+}
+.footertext{
+	font-size: 16px;
+}
+
+.hide_tablet {
+display: none;
+}
+.zeroMargin_tablet {
+margin-left: 0;
+}
+}
+
+/* Desktop Layout: 769px to a max of 1232px.
+--------------------------------Desktop------- */
+
+@media only screen and (min-width: 769px) {
+
+.gridContainer {
+	width: 98.3333%;
+	max-width: 1232px;
+	padding-left: 0.8333%;
+	padding-right: 0.8333%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#header {
+}
+
+#logo {
+	width: 23.7288%;
+	margin-left: 0;
+	clear: both;
+}
+#logo img {
+	width: 65%;
+	margin-top: 12px;
+	margin-left: 60px;	
+}
+#banner {
+	width: 74.5762%;
+	margin-left: 1.6949%;
+}
+#banner img {
+	margin-left: 8%;
+}
+#menu {
+}
+#slideshow {
+}
+#main {
+}
+#textarea {
+	margin-left: 45px;
+	margin-bottom: 25px;
+}
+#featurebox1 {
+	width: 99.5%;
+	margin-left: 0;
+	clear: none;
+}
+#featurebox2 {
+	width: 99.5%;
+	margin-left: 0;
+	clear: none;
+}
+#featurebox3 {
+	width: 99.5%;
+	margin-left: 0;
+	clear: none;
+}
+#featurebox4 {
+	width: 99.5%;
+	margin-left: 0;
+	clear: none;
+}
+#featurebox5 {
+	width: 99.5%;
+	margin-left: 0;
+	clear: none;
+}
+#featurebox6 {
+	width: 99.5%;
+	margin-left: 0;
+	clear: none;
+}
+.featureboxcontroller {
+}
+.featureboxgraphic {
+	padding-left: 0;
+	padding-right: 0;
+	float: left;
+	width: 65%;
+	text-align: center;
+}
+.featureboxtextarea {
+	background-color: #B8B8BF;
+	float: right;
+	width: 31%;
+}
+#footer {
+}
+.zeroMargin_desktop {
+	margin-left: 0;
+}
+.hide_desktop {
+	display: none;
+}
+}
+h2{
+	font-family: Gotham,  Helvetica, Arial, sans-serif;
+	color: #4588A2;
+	font-size: 22px;
+	font-weight: 200;
+	font-style: normal;
+}
+h3 {
+	font-family: Gotham,  Helvetica, Arial, sans-serif;
+	color: #4588A2;
+	font-size: 18px;
+	font-weight: 200;
+	font-style: normal;
+}
+h4 {
+   font-family: Gotham, Helvetica, Arial, sans-serif;
+	font-size: 22px;
+	color: black;
+	margin-top: 2px;
+}

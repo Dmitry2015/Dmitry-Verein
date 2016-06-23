@@ -1,0 +1,124 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Explore the greatest cities</title>
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<!--[if<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--<script src="respond.min.js"></script> -->
+</head>
+<body>
+<div class="container-fluid" id="wrapper">
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#defaultNavbar1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+<ul class="nav navbar-nav navbar-right">
+  <li><a href="#">About</a></li>
+  <li><a href="gallery.html">Seattle</a></li>
+  <li><a href="gallery.html">San Diego</a></li>
+  <li><a href="gallery.html">San Francisco</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a href="http://www.weather.com/">Weather</a></li>
+</ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+  <div id="carousel1" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel1" data-slide-to="1"></li>
+      <li data-target="#carousel1" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+      <div class="item active"><img src="images/header-1.jpg" alt="First slide image" class="center-block image-fill">
+        <div class="carousel-caption">
+          <h3>Panoramic View</h3>
+          <p>Seattle</p>
+        </div>
+      </div>
+      <div class="item"><img src="images/header-2.jpg" alt="Second slide image" class="center-block image-fill">
+        <div class="carousel-caption">
+          <h3>Panoramic View</h3>
+          <p>San Diego</p>
+        </div>
+      </div>
+      <div class="item"><img src="images/header-3.jpg" alt="Third slide image" class="center-block image-fill">
+        <div class="carousel-caption">
+          <h3>Panoramic View</h3>
+          <p>San Francisco</p>
+        </div>
+      </div>
+    </div>
+    <a class="left carousel-control" href="#carousel1" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#carousel1" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only">Next</span></a></div>
+<article id="main">
+    <h1></h1>
+	<p>St. Augustine:    "The world is a book and those who do not travel read only one page."</p>
+</article>
+<div id="header" class="fluid">
+<div id="logo" class="fluid"><img src="images/upperleft.jpg" alt=""/></div>
+<div id="banner" class="fluid"><img src="images/banner.jpg" alt=""/></div>
+</div>
+<div id="featurebox1" class="featureboxcontroller">
+<div class="featureboxgraphic"><img src="images/middlese.jpg" alt=""/></div>
+<div class="featureboxtextarea">
+<h4>Seattle</h4>
+  <p class="featureboxtext">Seattle, on Puget Sound in the Pacific Northwest, is surrounded by water, mountains and evergreen forests, and encompasses thousands of acres of parkland (hence its nickname, "Emerald City"). It's home to a thriving tech industry, with Microsoft and Amazon.com headquartered in its metropolitan area.
+  <a href="#">read more&gt;</a></p>
+</div></div>
+<div class="featureboxcontroller" id="featurebox2">
+<div class="featureboxgraphic"><img src="images/middlesd.jpg" alt=""/></div>
+ <div class="featureboxtextarea">
+  <h4>San Diego</h4>
+  <p class="featureboxtext">San Diego is a city on the Pacific coast of California known for its beaches, parks and warm climate. Immense Balboa Park is the site of the world-famous San Diego Zoo, as well as numerous art galleries, artist studios, museums and gardens. A deep harbor is home to a large active naval fleet, with the USS Midway, an aircraft-carrier-turned-museum, open to the public.
+  <a href="#">read more&gt;</a></p>
+</div>
+</div>
+<div class="featureboxcontroller" id="featurebox3">
+<div class="featureboxgraphic"><img src="images/middlesf.jpg" alt=""/></div>
+ <div class="featureboxtextarea">
+  <h4>San Francisco</h4>
+  <p class="featureboxtext">San Francisco, in northern California, is a city on the tip of a peninsula surrounded by the Pacific Ocean and San Francisco Bay. It's known for its hilly landscape, year-round fog, iconic Golden Gate Bridge, cable cars and colorful Victorian houses. The Financial District's Transamerica Pyramid is its most distinctive skyscraper. In the bay sits Alcatraz Island, site of the notorious former prison.
+  <a href="#">read more&gt;</a></p>
+</div>
+</div>
+</div>
+<div id="footer" class="fluid">
+<p class="footertext">
+<span class="footerspace">&copy; copyright 2015</span> 
+<span class="footerspace">Explore the greatest cities</span> 
+<span class="footerspace">Bellevue, WA</span> 
+<span class="footerspace"><a href="mailto:info@Explorethegreatestcities.com" class="whitelink">info@Explorethegreatestcities.com</a></span></p>
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="js/jquery-1.11.2.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
+
