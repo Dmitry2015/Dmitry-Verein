@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\StudentStruct\StudentStruct\bin\Debug\StudentStruct.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\StudentStruct\StudentStruct\bin\Debug\StudentStruct.exe
+c:\users\dell\documents\visual studio 2015\Projects\StudentStruct\StudentStruct\bin\Debug\StudentStruct.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentStruct\StudentStruct\obj\Debug\StudentStruct.exe
+c:\users\dell\documents\visual studio 2015\Projects\StudentStruct\StudentStruct\obj\Debug\StudentStruct.pdb

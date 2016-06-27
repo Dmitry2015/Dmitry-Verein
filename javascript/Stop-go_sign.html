@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" href="css/styles.css">
+<style>
+canvas{border:1px solid black}
+</style>
+
+</head>
+
+<body onLoad="draw();">
+<canvas width="1000" height="500" id="stage">
+You need a new browser
+</canvas>
+<script>
+
+function draw(){
+var canvas = document.querySelector("#stage");
+var ctx = canvas.getContext("2d");
+ctx.save();			// save previous display state
+
+// drawing the red sign
+
+//  set drawing properties for the sign
+ctx.lineWidth = 32;	       // nice wide line		
+ctx.lineJoin = "round";	   // rounded corners
+ctx.strokeStyle = "red";
+ctx.fillStyle = "red";
+
+// create octagon linear path
+ctx.beginPath();
+ctx.moveTo(200, 100);
+ctx.lineTo(350, 100);
+ctx.lineTo(450, 200);
+ctx.lineTo(450, 350);
+ctx.lineTo(350, 450);
+ctx.lineTo(200, 450);
+ctx.lineTo(100, 350);
+ctx.lineTo(100, 200);
+ctx.closePath();
+
+// fill the sign and draw wide red lines
+ctx.fill();
+ctx.stroke();	
+
+// draw narrower white lines -- these will display on top of the wide red lines and make the red lines
+// look like the outside edge -- a nice trick!
+ctx.strokeStyle = "white";
+ctx.lineWidth = 10;
+ctx.stroke();
+
+// draw STOP text
+ctx.fillStyle  = "white";
+ctx.font = "bold 100px Arial";
+ctx.fillText( "STOP" ,140, 310);
+ctx.restore();		// restore previous display state
+
+// drawing the green sign
+
+ctx.save();			// save previous display state
+//  set drawing properties for the sign
+ctx.lineWidth = 32;	       // nice wide line		
+ctx.lineJoin = "round";	   // rounded corners
+ctx.strokeStyle = "green";
+ctx.fillStyle = "green";
+
+// create octagon linear path
+ctx.beginPath();
+ctx.moveTo(700, 100);
+ctx.lineTo(850, 100);
+ctx.lineTo(950, 200);
+ctx.lineTo(950, 350);
+ctx.lineTo(850, 450);
+ctx.lineTo(700, 450);
+ctx.lineTo(600, 350);
+ctx.lineTo(600, 200);
+ctx.closePath();
+
+// fill the sign and draw wide red lines
+ctx.fill();
+ctx.stroke();	
+
+// draw narrower white lines -- these will display on top of the wide red lines and make the red lines
+// look like the outside edge -- a nice trick!
+ctx.strokeStyle = "white";
+ctx.lineWidth = 10;
+ctx.stroke();
+
+// draw STOP text
+ctx.fillStyle  = "white";
+ctx.font = "bold 100px Arial";
+ctx.fillText( "  GO" ,640, 310);
+ctx.restore();		// restore previous display state
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\ApplicationInsights.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\csc.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\vbc.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Phase03-1.dll.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Phase03-1.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Phase03-1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\obj\Debug\Phase03-1.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07\Phase03-1\obj\Debug\Phase03-1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\ApplicationInsights.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\csc.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\vbc.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Phase03-1.dll.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Phase03-1.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Phase03-1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\obj\Debug\Phase03-1.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Phase 07-1\Phase03-1\obj\Debug\Phase03-1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\ApplicationInsights.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\csc.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\vbc.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Phase03-1.dll.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Phase03-1.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Phase03-1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\obj\Debug\Phase03-1.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\HW-8\Phase03-1\obj\Debug\Phase03-1.pdb

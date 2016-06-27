@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAdapterSolution", "DataAdapterSolution\DataAdapterSolution.csproj", "{4E39A99E-20C2-4389-AE5E-3ED477B78757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLib", "DataAccessLib\DataAccessLib.csproj", "{D146077B-608F-4E04-8730-CCF6B7A7A425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E39A99E-20C2-4389-AE5E-3ED477B78757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E39A99E-20C2-4389-AE5E-3ED477B78757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E39A99E-20C2-4389-AE5E-3ED477B78757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E39A99E-20C2-4389-AE5E-3ED477B78757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D146077B-608F-4E04-8730-CCF6B7A7A425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D146077B-608F-4E04-8730-CCF6B7A7A425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D146077B-608F-4E04-8730-CCF6B7A7A425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D146077B-608F-4E04-8730-CCF6B7A7A425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

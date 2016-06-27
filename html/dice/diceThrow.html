@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Dice Roll</title>
+
+<style>
+    #output {
+        width: 500px;
+        height: 50px;
+        margin: 10px auto;
+        padding: 10px 20px;
+        border: 1px solid gray;
+        background-color: #ECEAEA;
+        text-align: center;
+    }
+</style>
+
+</head>
+<body>
+<script>
+
+//One thing to consider is to preload the six images first
+//var face0=new Image()
+//face0.src="images/d1.gif"
+
+
+var diceFace=new Array("images/d1.gif", "images/d2.gif", "images/d3.gif", "images/d4.gif", "images/d5.gif", "images/d6.gif"); 
+
+/////////////////////////////////
+
+function throwdice(){
+	
+    //clear document.getElementById("output").innerHTML field
+    document.getElementById("output").innerHTML = " ";
+     
+
+    //create a random integer between 1 and 6
+    var randomdice1 = Math.floor(Math.random() * 6) + 1;
+    var randomdice2 = Math.floor(Math.random() * 6) + 1;
+    //count sum of randomdice1 and randomdice2
+    var number = randomdice1 + randomdice2;
+    //define an index in array according randomdice1 and randomdice2 values
+    document.images["mydice1"].src = diceFace[randomdice1 - 1];
+    document.images["mydice2"].src = diceFace[randomdice2 - 1];
+    //display the sum of randomdice1 and randomdice2
+    document.getElementById("output").style.backgroundColor = "#ECEAEA";
+    document.getElementById("output").style.color = "black";
+    document.getElementById("output").style.fontFamily = "Times New Roman";
+    document.getElementById("output").style.fontSize = "12";
+    document.getElementById("output").innerHTML = "The total number is " + number;
+
+    //compare the sum with 7, display the result
+    if (number == 7 || number == 11) {
+        answer = "The total number is " + number + " You won!!!";
+        document.getElementById("output").style.backgroundColor = "yellow";
+        document.getElementById("output").style.color = "red";
+        document.getElementById("output").style.fontFamily = "Arial";
+        document.getElementById("output").style.fontSize = "larger";
+        document.getElementById("output").innerHTML = answer;
+    }
+
+
+    //compare the sum with 2 and 11, display the result
+    if (number == 2 || number == 3 || number == 12) {
+        answer = "The total number is " + number + " You have lost!";
+        document.getElementById("output").style.backgroundColor = "#ECEAAA";
+        document.getElementById("output").style.color = "green";
+        document.getElementById("output").style.fontFamily = "Arial";
+        document.getElementById("output").innerHTML = answer;
+    }
+    }
+
+</script>
+
+
+<img src="images/d1.gif" id="mydice1">
+<img src="images/d1.gif" id="mydice2">
+
+<form>
+<input type="button" value="Throw dice!" onclick="setTimeout(function(){throwdice()}, 2000);">
+</form>
+
+
+
+<div id="output">
+</div>
+
+</body>
+</html>

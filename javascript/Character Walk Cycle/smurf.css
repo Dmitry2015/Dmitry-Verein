@@ -1,0 +1,26 @@
+
+#stage 
+{
+  position: relative;
+  width: 552px;
+  height: 414px;
+}
+
+canvas
+{
+  display: block;
+  position: absolute;
+  width: 1024px;
+  height: 1024px;
+  
+//  -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+//	-moz-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+//	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+	
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	
+	cursor: pointer;	
+}
+

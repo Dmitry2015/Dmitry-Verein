@@ -1,0 +1,10 @@
+C:\Users\dv\Documents\Visual Studio 2015\Projects\BirdDataAdapter\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+C:\Users\dv\Documents\Visual Studio 2015\Projects\BirdDataAdapter\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+C:\Users\dv\Documents\Visual Studio 2015\Projects\BirdDataAdapter\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+C:\Users\dv\Documents\Visual Studio 2015\Projects\BirdDataAdapter\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+C:\Users\dv\Documents\Visual Studio 2015\Projects\BirdDataAdapter\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-BirdDataAdapter\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-BirdDataAdapter\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-BirdDataAdapter\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-BirdDataAdapter\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-BirdDataAdapter\ClassLibraryDB\obj\Debug\ClassLibraryDB.csprojResolveAssemblyReference.cache

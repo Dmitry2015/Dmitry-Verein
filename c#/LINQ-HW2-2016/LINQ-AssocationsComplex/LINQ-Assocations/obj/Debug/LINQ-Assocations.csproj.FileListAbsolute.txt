@@ -1,0 +1,52 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ_Assocations.Form1.resources
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ_Assocations.Properties.Resources.resources
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.csproj.GenerateResource.Cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.exe
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ_Assocations.Form1.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ_Assocations.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A3AA-Prog299-IndepStudies-winter-2016\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ_Assocations.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ_Assocations.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-2\LINQ-Assocations\LINQ-Assocations\obj\Debug\LINQ-Assocations.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ_Assocations.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ_Assocations.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-AssocationsComplex\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ_Assocations.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ_Assocations.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-10-IntroToLINQ\Part-1\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ_Assocations.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ_Assocations.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\bin\Debug\LINQ-Assocations.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\LINQ-HW2-2016\LINQ-AssocationsComplex\LINQ-Assocations\obj\Debug\LINQ-Assocations.csprojResolveAssemblyReference.cache

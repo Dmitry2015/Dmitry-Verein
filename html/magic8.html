@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+<h2>Magic 8 Ball Game</h2>
+<br /><br />
+Make your wish: <input type="text" size="25" id="userInput" /><br /><br />
+<input type="button" value="click me" onclick="answerQuestion();" />
+
+    <div id="output">
+        <!-- Write the output here for the user to see -->
+        Magic 8 Ball Game answers:
+    </div>
+    <script>
+        //Run this function when the button is pressed
+        function answerQuestion() {
+            //Create random numbers and deliver output
+            //based on the random numbers
+            //write the output to the OUTPUT area
+            var randomNum = Math.floor(Math.random() * 5) + 1;
+            if (randomNum === 1) {
+                answer = "All signs point to YES!"
+            }
+            else if (randomNum === 2) {
+                answer = "The future looks cloudy"
+            }
+            else if (randomNum === 3) {
+                answer = "All signs point to NO!"
+            }
+            else if (randomNum === 4) {
+                answer = "Excellent"
+            }
+            else {
+                answer = "You are right!"
+            }
+            document.getElementById("output").innerHTML = answer;
+        }
+    </script>
+</body>
+</html>
+
+
+

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BirdsDataSet" targetNamespace="http://tempuri.org/BirdsDataSet.xsd" xmlns:mstns="http://tempuri.org/BirdsDataSet.xsd" xmlns="http://tempuri.org/BirdsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BirdsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BirdsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ClassLibraryDB.Properties.Settings.GlobalReference.Default.BirdsConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BirdsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="BirdsDataSet" msprop:Generator_UserDSName="BirdsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BirdCount" msprop:Generator_TableClassName="BirdCountDataTable" msprop:Generator_TableVarName="tableBirdCount" msprop:Generator_TablePropName="BirdCount" msprop:Generator_RowDeletingName="BirdCountRowDeleting" msprop:Generator_RowChangingName="BirdCountRowChanging" msprop:Generator_RowEvHandlerName="BirdCountRowChangeEventHandler" msprop:Generator_RowDeletedName="BirdCountRowDeleted" msprop:Generator_UserTableName="BirdCount" msprop:Generator_RowChangedName="BirdCountRowChanged" msprop:Generator_RowEvArgName="BirdCountRowChangeEvent" msprop:Generator_RowClassName="BirdCountRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CountID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnCountID" msprop:Generator_ColumnPropNameInRow="CountID" msprop:Generator_ColumnPropNameInTable="CountIDColumn" msprop:Generator_UserColumnName="CountID" type="xs:int" />
+              <xs:element name="RegionID" msprop:Generator_ColumnVarNameInTable="columnRegionID" msprop:Generator_ColumnPropNameInRow="RegionID" msprop:Generator_ColumnPropNameInTable="RegionIDColumn" msprop:Generator_UserColumnName="RegionID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BirderID" msprop:Generator_ColumnVarNameInTable="columnBirderID" msprop:Generator_ColumnPropNameInRow="BirderID" msprop:Generator_ColumnPropNameInTable="BirderIDColumn" msprop:Generator_UserColumnName="BirderID" type="xs:int" />
+              <xs:element name="BirdID" msprop:Generator_ColumnVarNameInTable="columnBirdID" msprop:Generator_ColumnPropNameInRow="BirdID" msprop:Generator_ColumnPropNameInTable="BirdIDColumn" msprop:Generator_UserColumnName="BirdID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CountDate" msprop:Generator_ColumnVarNameInTable="columnCountDate" msprop:Generator_ColumnPropNameInRow="CountDate" msprop:Generator_ColumnPropNameInTable="CountDateColumn" msprop:Generator_UserColumnName="CountDate" type="xs:dateTime" />
+              <xs:element name="Counted" msprop:Generator_ColumnVarNameInTable="columnCounted" msprop:Generator_ColumnPropNameInRow="Counted" msprop:Generator_ColumnPropNameInTable="CountedColumn" msprop:Generator_UserColumnName="Counted" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:BirdCount" />
+      <xs:field xpath="mstns:CountID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

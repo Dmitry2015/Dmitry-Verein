@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PayablesModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="PayablesEntities">
+    <EntitySet Name="Departments" EntityType="PayablesModel.Department" />
+    <EntitySet Name="Employees" EntityType="PayablesModel.Employee" />
+    <AssociationSet Name="FK_DepartmentEmployee" Association="PayablesModel.FK_DepartmentEmployee">
+      <End Role="Department1" EntitySet="Departments" />
+      <End Role="Employee1" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DepartmentID" />
+    </Key>
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DeptName" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Employees" Relationship="PayablesModel.FK_DepartmentEmployee" FromRole="Department1" ToRole="Employee1" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Department" Relationship="PayablesModel.FK_DepartmentEmployee" FromRole="Employee1" ToRole="Department1" />
+  </EntityType>
+  <Association Name="FK_DepartmentEmployee">
+    <End Type="PayablesModel.Department" Role="Department1" Multiplicity="1" />
+    <End Type="PayablesModel.Employee" Role="Employee1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department1">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="Employee1">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

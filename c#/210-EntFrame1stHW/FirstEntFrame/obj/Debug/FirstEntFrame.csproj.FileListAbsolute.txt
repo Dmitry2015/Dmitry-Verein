@@ -1,0 +1,46 @@
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.Form1.resources
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.Properties.Resources.resources
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.csproj.GenerateResource.Cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.pdb
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\bin\Debug\EntityFramework.dll
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\bin\Debug\EntityFramework.xml
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-13-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-13-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-13-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\bin\Debug\FirstEntFrame.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\FirstEntFrame\FirstEntFrame\obj\Debug\FirstEntFrame.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\bin\Debug\FirstEntFrame.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\bin\Debug\FirstEntFrame.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\bin\Debug\FirstEntFrame.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-11-EntityFramework\Part-1\EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\bin\Debug\FirstEntFrame.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\bin\Debug\FirstEntFrame.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\bin\Debug\FirstEntFrame.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\-spring2016\210-EntFrame1stHW\FirstEntFrame\obj\Debug\FirstEntFrame.csproj.GenerateResource.Cache
